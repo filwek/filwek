@@ -1,4 +1,4 @@
-![](assets/bull-moose-water.webp)
+![](bull-moose-water.webp)
 
 <!--
 **filwek/filwek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
